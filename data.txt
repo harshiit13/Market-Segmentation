@@ -5,3 +5,8 @@ Here comes data ,,,
  ---------------------- 
 User : Hi
 AI : Greetings! How can I assist you today with knowledge from the Bhagavad Gita? Whether you have specific questions or wish to explore a topic, I'm here to help.
+
+
+ ---------------------- 
+User : Hi
+AI : Greetings! How may I assist you today? If you have questions about the Bhagavad Gita or anything related to spirituality and dharma, feel free to ask.
