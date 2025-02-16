@@ -1,1 +1,7 @@
 Here comes data ,,, 
+
+
+
+ ---------------------- 
+User : Hi
+AI : Greetings! How can I assist you today with knowledge from the Bhagavad Gita? Whether you have specific questions or wish to explore a topic, I'm here to help.
