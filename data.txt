@@ -10,3 +10,8 @@ AI : Greetings! How can I assist you today with knowledge from the Bhagavad Gita
  ---------------------- 
 User : Hi
 AI : Greetings! How may I assist you today? If you have questions about the Bhagavad Gita or anything related to spirituality and dharma, feel free to ask.
+
+
+ ---------------------- 
+User : What is Dharmaa ?
+AI : Dharma, as mentioned in the Bhagavad Gita (Chapter 3, Verse 35), 'sreyaan svadharmo vigunah,' refers to one's righteous duty or moral order. It signifies the ethical and moral responsibilities assigned within society and the natural order. Adhering to dharma helps maintain balance and harmony in life and the universe. Would you like more specific examples or how dharma applies in today's context?
