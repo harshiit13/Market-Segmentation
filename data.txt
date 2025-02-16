@@ -9,3 +9,8 @@ AI : Dharma, as mentioned in the Bhagavad Gita (Chapter 3, Verse 35), 'sreyaan s
  ---------------------- 
 User : Hi
 AI : Namaste! How may I assist you today? Would you like to explore a verse or teaching from the Bhagavad Gita?
+
+
+ ---------------------- 
+User : What is Dharmaa ?
+AI : In the Bhagavad Gita, ‘dharma’ is a multifaceted concept that refers to righteousness, duty, and moral order, as articulated in Chapter 4, Verse 7-8: ‘यदा यदा हि धर्मस्य ग्लानिर्भवति भारत…’ (Whenever there is a decline in righteousness and an increase in unrighteousness, I manifest myself). Dharma varies according to context—individual, societal, and cosmic. Following one's dharma is essential not only for personal growth but also for societal harmony. Abandoning dharma leads to chaos, while adherence to it fosters balance and justice in the world. Thus, living in alignment with dharma is crucial for both personal and collective well-being.
