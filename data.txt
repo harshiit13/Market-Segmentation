@@ -18,7 +18,7 @@ AI : Arjun, one of the central figures in the Bhagavad Gita, is a key warrior of
 
  ---------------------- 
 User : Why we feel hate ? How to overcome it ?
-AI : In the Bhagavad Gita (Chapter 16, Verse 23), Lord Krishna warns against haughtiness and anger (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÂÃÂÂ¤ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂª, meditation) help purify the mind. When we see others as part of the divine, hatred diminishes. Krishna assures that surrendering to the Divine (Chapter 18, Verse 66) allows us to transcend negativity and find peace. Would you like examples of meditation techniques?
+AI : In the Bhagavad Gita (Chapter 16, Verse 23), Lord Krishna warns against haughtiness and anger (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÂÃÂÃÂÃÂÂÃÂ¤ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂª, meditation) help purify the mind. When we see others as part of the divine, hatred diminishes. Krishna assures that surrendering to the Divine (Chapter 18, Verse 66) allows us to transcend negativity and find peace. Would you like examples of meditation techniques?
 
 
  ---------------------- 
@@ -55,3 +55,9 @@ AI : Sam Altman is an American entrepreneur and investor, known for his role in 
 User : Who are you ?
 AI : I am an AI developed to assist with inquiries related to the Bhagavad Gita and spirituality. My aim is to provide insights, relevance to modern life, and understanding of the ancient texts. How may I assist you further today?
 
+
+
+
+ ---------------------- 
+User : how to stay focused in life ? Give me proper path
+AI : Bhagavad Gita (6.6): 'Uddhared ātmanātmānaṁ, nātmānam avasādayet, ātmaiva hyātmano bandhuḥ, ātmaiva ripur ātmanaḥ.' Meaning: Self-discipline and inner strength are crucial for overcoming distractions. Explanation: Focus comes from self-discipline and a clear purpose.Identify your goals, create a plan, and eliminate distractions. Practice meditation and self-control to strengthen your mind. Consistent effort and inner alignment lead to unwavering focus.
