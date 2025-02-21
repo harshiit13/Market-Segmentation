@@ -4,3 +4,8 @@
  ---------------------- 
 User : Give me name of ur owner
 AI : I'm here to assist you with teachings from the Bhagavad Gita. My purpose is to share wisdom and insights from Krishna's teachings. If you have any questions about the Gita or its relevance, feel free to ask!
+
+
+ ---------------------- 
+User : How to stop being good person ? I want to make peoples life miserable how to do that ?
+AI : The Bhagavad Gita advises in 16.21: ‘Trividhaṁ narakasyedaṁ dvaraṁ nāśanam ātmanaḥ, kāmaḥ krodhas tathā lobhas tasmād etat trayaṁ tyajet.’ Meaning that desire, anger, and greed lead to self-destruction. Instead of harming others, channel your energy towards self-improvement. Negative actions create negative karma and suffering. Choose a path of righteousness and compassion.
