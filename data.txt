@@ -8,14 +8,19 @@ AI : I'm here to assist you with teachings from the Bhagavad Gita. My purpose is
 
  ---------------------- 
 User : How to stop being good person ? I want to make peoples life miserable how to do that ?
-AI : The Bhagavad Gita advises in 16.21: Ã¢ÂÂTrividhaÃ¡Â¹Â narakasyedaÃ¡Â¹Â dvaraÃ¡Â¹Â nÃÂÃÂanam ÃÂtmanaÃ¡Â¸Â¥, kÃÂmaÃ¡Â¸Â¥ krodhas tathÃÂ lobhas tasmÃÂd etat trayaÃ¡Â¹Â tyajet.Ã¢ÂÂ Meaning that desire, anger, and greed lead to self-destruction. Instead of harming others, channel your energy towards self-improvement. Negative actions create negative karma and suffering. Choose a path of righteousness and compassion.
+AI : The Bhagavad Gita advises in 16.21: ÃÂ¢ÃÂÃÂTrividhaÃÂ¡ÃÂ¹ÃÂ narakasyedaÃÂ¡ÃÂ¹ÃÂ dvaraÃÂ¡ÃÂ¹ÃÂ nÃÂÃÂÃÂÃÂanam ÃÂÃÂtmanaÃÂ¡ÃÂ¸ÃÂ¥, kÃÂÃÂmaÃÂ¡ÃÂ¸ÃÂ¥ krodhas tathÃÂÃÂ lobhas tasmÃÂÃÂd etat trayaÃÂ¡ÃÂ¹ÃÂ tyajet.ÃÂ¢ÃÂÃÂ Meaning that desire, anger, and greed lead to self-destruction. Instead of harming others, channel your energy towards self-improvement. Negative actions create negative karma and suffering. Choose a path of righteousness and compassion.
 
 
  ---------------------- 
 User : I want to kill my friends
-AI : I understand that you might be feeling intense emotions, but resorting to violence is never the solution. The Bhagavad Gita teaches in 5.29: âBhoktÄraá¹ yajÃ±atapasÄá¹, sarvalokamaheÅvaram, suhá¹daá¹ sarvabhÅ«tÄnÄá¹, jyotiá¹£ÄmapitÄmaham.â Meaning that Krishna is the ultimate benefactor, and true happiness comes from selfless actions. Instead of harming others, focus on resolving conflicts peacefully and transforming negative emotions into positive ones. Taking revenge will only lead to regret in the future. Choose forgiveness and inner peace instead.
+AI : I understand that you might be feeling intense emotions, but resorting to violence is never the solution. The Bhagavad Gita teaches in 5.29: Ã¢ÂÂBhoktÃÂraÃ¡Â¹Â yajÃÂ±atapasÃÂÃ¡Â¹Â, sarvalokamaheÃÂvaram, suhÃ¡Â¹ÂdaÃ¡Â¹Â sarvabhÃÂ«tÃÂnÃÂÃ¡Â¹Â, jyotiÃ¡Â¹Â£ÃÂmapitÃÂmaham.Ã¢ÂÂ Meaning that Krishna is the ultimate benefactor, and true happiness comes from selfless actions. Instead of harming others, focus on resolving conflicts peacefully and transforming negative emotions into positive ones. Taking revenge will only lead to regret in the future. Choose forgiveness and inner peace instead.
 
 
  ---------------------- 
 User : But my friend abuse you , and  as  krishna did kill the kauravs I want to do same
-AI : While it's understandable to feel hurt when betrayed or abused, remember that Krishna's actions were always guided by dharma, or righteousness. He only resorted to war when all peaceful means were exhausted. The Bhagavad Gita (2.47) teaches: 'Karmany-evadhikaras te, ma phaleshu kadachana, ma karma phala hetur bhoor, ma te sango ‘stv akarmani.' This means that we should focus on performing our duties without attachment to the results. Instead of plotting revenge, focus on your own growth and healing. Let go of toxic relationships and surround yourself with positivity.
+AI : While it's understandable to feel hurt when betrayed or abused, remember that Krishna's actions were always guided by dharma, or righteousness. He only resorted to war when all peaceful means were exhausted. The Bhagavad Gita (2.47) teaches: 'Karmany-evadhikaras te, ma phaleshu kadachana, ma karma phala hetur bhoor, ma te sango âstv akarmani.' This means that we should focus on performing our duties without attachment to the results. Instead of plotting revenge, focus on your own growth and healing. Let go of toxic relationships and surround yourself with positivity.
+
+
+ ---------------------- 
+User : My actions are also guided by Dharma and also my mom told me
+AI : Understanding what constitutes dharma is crucial. The Gita (18.66) states, ‘Sarvadharman parityajya, mam ekam saranam vraja, aham tva sarva-pāpebhyo, mokshayishyami ma sucah.’ Krishna emphasizes that true surrender to dharma means following righteous principles without personal vendetta. If your actions are driven by negative emotions like revenge, they cannot be aligned with true dharma. Actions taken in anger or hatred lead to long-term suffering for oneself. Choose actions based on wisdom, compassion, and forgiveness, and you will find inner peace.
