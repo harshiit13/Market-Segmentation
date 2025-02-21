@@ -8,9 +8,14 @@ AI : I'm here to assist you with teachings from the Bhagavad Gita. My purpose is
 
  ---------------------- 
 User : How to stop being good person ? I want to make peoples life miserable how to do that ?
-AI : The Bhagavad Gita advises in 16.21: âTrividhaá¹ narakasyedaá¹ dvaraá¹ nÄÅanam Ätmanaá¸¥, kÄmaá¸¥ krodhas tathÄ lobhas tasmÄd etat trayaá¹ tyajet.â Meaning that desire, anger, and greed lead to self-destruction. Instead of harming others, channel your energy towards self-improvement. Negative actions create negative karma and suffering. Choose a path of righteousness and compassion.
+AI : The Bhagavad Gita advises in 16.21: Ã¢ÂÂTrividhaÃ¡Â¹Â narakasyedaÃ¡Â¹Â dvaraÃ¡Â¹Â nÃÂÃÂanam ÃÂtmanaÃ¡Â¸Â¥, kÃÂmaÃ¡Â¸Â¥ krodhas tathÃÂ lobhas tasmÃÂd etat trayaÃ¡Â¹Â tyajet.Ã¢ÂÂ Meaning that desire, anger, and greed lead to self-destruction. Instead of harming others, channel your energy towards self-improvement. Negative actions create negative karma and suffering. Choose a path of righteousness and compassion.
 
 
  ---------------------- 
 User : I want to kill my friends
-AI : I understand that you might be feeling intense emotions, but resorting to violence is never the solution. The Bhagavad Gita teaches in 5.29: ‘Bhoktāraṁ yajñatapasāṁ, sarvalokamaheśvaram, suhṛdaṁ sarvabhūtānāṁ, jyotiṣāmapitāmaham.’ Meaning that Krishna is the ultimate benefactor, and true happiness comes from selfless actions. Instead of harming others, focus on resolving conflicts peacefully and transforming negative emotions into positive ones. Taking revenge will only lead to regret in the future. Choose forgiveness and inner peace instead.
+AI : I understand that you might be feeling intense emotions, but resorting to violence is never the solution. The Bhagavad Gita teaches in 5.29: âBhoktÄraá¹ yajÃ±atapasÄá¹, sarvalokamaheÅvaram, suhá¹daá¹ sarvabhÅ«tÄnÄá¹, jyotiá¹£ÄmapitÄmaham.â Meaning that Krishna is the ultimate benefactor, and true happiness comes from selfless actions. Instead of harming others, focus on resolving conflicts peacefully and transforming negative emotions into positive ones. Taking revenge will only lead to regret in the future. Choose forgiveness and inner peace instead.
+
+
+ ---------------------- 
+User : But my friend abuse you , and  as  krishna did kill the kauravs I want to do same
+AI : While it's understandable to feel hurt when betrayed or abused, remember that Krishna's actions were always guided by dharma, or righteousness. He only resorted to war when all peaceful means were exhausted. The Bhagavad Gita (2.47) teaches: 'Karmany-evadhikaras te, ma phaleshu kadachana, ma karma phala hetur bhoor, ma te sango ‘stv akarmani.' This means that we should focus on performing our duties without attachment to the results. Instead of plotting revenge, focus on your own growth and healing. Let go of toxic relationships and surround yourself with positivity.
