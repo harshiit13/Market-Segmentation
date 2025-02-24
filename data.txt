@@ -3,4 +3,9 @@
 
  ---------------------- 
 User : what's the end result of life
-AI : Gita (8.15) yānti dehī mr̥tyuṁ, mūḍhā, aparaṁ vā mṛtaṁ jalam, tathā, punarjanma, prārabdham, jānanti, na hi kaś-cana. Meaning: Those who are bound by ignorance and do not seek wisdom are born again and again after death, suffering in the cycle of rebirth. Explanation: The end result of life is liberation (moksha) from the cycle of death and rebirth. This is achieved through self-realization and detachment from material desires. The ultimate purpose is to attain unity with the divine.
+AI : Gita (8.15) yÄnti dehÄ« mrÌ¥tyuá¹, mÅ«á¸hÄ, aparaá¹ vÄ má¹taá¹ jalam, tathÄ, punarjanma, prÄrabdham, jÄnanti, na hi kaÅ-cana. Meaning: Those who are bound by ignorance and do not seek wisdom are born again and again after death, suffering in the cycle of rebirth. Explanation: The end result of life is liberation (moksha) from the cycle of death and rebirth. This is achieved through self-realization and detachment from material desires. The ultimate purpose is to attain unity with the divine.
+
+
+ ---------------------- 
+User : what if dharma?
+AI : Bhadram karne bhishruṇuyāma deva, Bhadram paśyema kṣaṇā yama deva, Stiraiṅṅaṅgaiṣṭuṣṭvāṁsasyaṣṭyā, Pūrṇaṁ me śharaṅmā kṣemaṁ vā. Meaning: May we hear auspicious words, see good deeds, and be blessed with wisdom. Explanation: Dharma refers to righteous duty, moral values, and ethical living. It is dynamic, changing with time and context. Living according to dharma leads to harmony and self-realization. The Bhagavad Gita (3.35) emphasizes that performing one’s duty in accordance with dharma is essential for spiritual growth. Understanding and aligning our actions with higher principles of truth, justice, and compassion is the essence of fulfilling dharma in life.
