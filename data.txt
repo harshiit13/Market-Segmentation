@@ -3,19 +3,24 @@
 
  ---------------------- 
 User : what's the end result of life
-AI : Gita (8.15) yÃÂÃÂnti dehÃÂÃÂ« mrÃÂÃÂ¥tyuÃÂ¡ÃÂ¹ÃÂ, mÃÂÃÂ«ÃÂ¡ÃÂ¸ÃÂhÃÂÃÂ, aparaÃÂ¡ÃÂ¹ÃÂ vÃÂÃÂ mÃÂ¡ÃÂ¹ÃÂtaÃÂ¡ÃÂ¹ÃÂ jalam, tathÃÂÃÂ, punarjanma, prÃÂÃÂrabdham, jÃÂÃÂnanti, na hi kaÃÂÃÂ-cana. Meaning: Those who are bound by ignorance and do not seek wisdom are born again and again after death, suffering in the cycle of rebirth. Explanation: The end result of life is liberation (moksha) from the cycle of death and rebirth. This is achieved through self-realization and detachment from material desires. The ultimate purpose is to attain unity with the divine.
+AI : Gita (8.15) yÃÂÃÂÃÂÃÂnti dehÃÂÃÂÃÂÃÂ« mrÃÂÃÂÃÂÃÂ¥tyuÃÂÃÂ¡ÃÂÃÂ¹ÃÂÃÂ, mÃÂÃÂÃÂÃÂ«ÃÂÃÂ¡ÃÂÃÂ¸ÃÂÃÂhÃÂÃÂÃÂÃÂ, aparaÃÂÃÂ¡ÃÂÃÂ¹ÃÂÃÂ vÃÂÃÂÃÂÃÂ mÃÂÃÂ¡ÃÂÃÂ¹ÃÂÃÂtaÃÂÃÂ¡ÃÂÃÂ¹ÃÂÃÂ jalam, tathÃÂÃÂÃÂÃÂ, punarjanma, prÃÂÃÂÃÂÃÂrabdham, jÃÂÃÂÃÂÃÂnanti, na hi kaÃÂÃÂÃÂÃÂ-cana. Meaning: Those who are bound by ignorance and do not seek wisdom are born again and again after death, suffering in the cycle of rebirth. Explanation: The end result of life is liberation (moksha) from the cycle of death and rebirth. This is achieved through self-realization and detachment from material desires. The ultimate purpose is to attain unity with the divine.
 
 
  ---------------------- 
 User : what if dharma?
-AI : Bhadram karne bhishruÃ¡Â¹ÂuyÃÂma deva, Bhadram paÃÂyema kÃ¡Â¹Â£aÃ¡Â¹ÂÃÂ yama deva, StiraiÃ¡Â¹ÂÃ¡Â¹ÂaÃ¡Â¹ÂgaiÃ¡Â¹Â£Ã¡Â¹Â­uÃ¡Â¹Â£Ã¡Â¹Â­vÃÂÃ¡Â¹ÂsasyaÃ¡Â¹Â£Ã¡Â¹Â­yÃÂ, PÃÂ«rÃ¡Â¹ÂaÃ¡Â¹Â me ÃÂharaÃ¡Â¹ÂmÃÂ kÃ¡Â¹Â£emaÃ¡Â¹Â vÃÂ. Meaning: May we hear auspicious words, see good deeds, and be blessed with wisdom. Explanation: Dharma refers to righteous duty, moral values, and ethical living. It is dynamic, changing with time and context. Living according to dharma leads to harmony and self-realization. The Bhagavad Gita (3.35) emphasizes that performing oneÃ¢ÂÂs duty in accordance with dharma is essential for spiritual growth. Understanding and aligning our actions with higher principles of truth, justice, and compassion is the essence of fulfilling dharma in life.
+AI : Bhadram karne bhishruÃÂ¡ÃÂ¹ÃÂuyÃÂÃÂma deva, Bhadram paÃÂÃÂyema kÃÂ¡ÃÂ¹ÃÂ£aÃÂ¡ÃÂ¹ÃÂÃÂÃÂ yama deva, StiraiÃÂ¡ÃÂ¹ÃÂÃÂ¡ÃÂ¹ÃÂaÃÂ¡ÃÂ¹ÃÂgaiÃÂ¡ÃÂ¹ÃÂ£ÃÂ¡ÃÂ¹ÃÂ­uÃÂ¡ÃÂ¹ÃÂ£ÃÂ¡ÃÂ¹ÃÂ­vÃÂÃÂÃÂ¡ÃÂ¹ÃÂsasyaÃÂ¡ÃÂ¹ÃÂ£ÃÂ¡ÃÂ¹ÃÂ­yÃÂÃÂ, PÃÂÃÂ«rÃÂ¡ÃÂ¹ÃÂaÃÂ¡ÃÂ¹ÃÂ me ÃÂÃÂharaÃÂ¡ÃÂ¹ÃÂmÃÂÃÂ kÃÂ¡ÃÂ¹ÃÂ£emaÃÂ¡ÃÂ¹ÃÂ vÃÂÃÂ. Meaning: May we hear auspicious words, see good deeds, and be blessed with wisdom. Explanation: Dharma refers to righteous duty, moral values, and ethical living. It is dynamic, changing with time and context. Living according to dharma leads to harmony and self-realization. The Bhagavad Gita (3.35) emphasizes that performing oneÃÂ¢ÃÂÃÂs duty in accordance with dharma is essential for spiritual growth. Understanding and aligning our actions with higher principles of truth, justice, and compassion is the essence of fulfilling dharma in life.
 
 
  ---------------------- 
 User : is it fair to date anyone in young age
-AI : Krishna (Bhagavad Gita 2.47): 'Karmanye vadhikaraste, ma phaleshu kadachana, ma karma phala hetur bhoor, ma te sango âstv akarmani.' Meaning: Focus on your duty without attaching yourself to the results. Explanation: The Bhagavad Gita emphasizes the importance of duty, ethics, and righteous living. While dating is a personal choice, it should align with values of mutual respect, understanding, and emotional maturity. Relationships formed in youth should be based on genuine connection rather than superficial attraction. Guidance from family, elders, and inner wisdom is essential to navigate relationships wisely and ensure they contribute positively to personal growth and character development.
+AI : Krishna (Bhagavad Gita 2.47): 'Karmanye vadhikaraste, ma phaleshu kadachana, ma karma phala hetur bhoor, ma te sango Ã¢ÂÂstv akarmani.' Meaning: Focus on your duty without attaching yourself to the results. Explanation: The Bhagavad Gita emphasizes the importance of duty, ethics, and righteous living. While dating is a personal choice, it should align with values of mutual respect, understanding, and emotional maturity. Relationships formed in youth should be based on genuine connection rather than superficial attraction. Guidance from family, elders, and inner wisdom is essential to navigate relationships wisely and ensure they contribute positively to personal growth and character development.
 
 
  ---------------------- 
 User : who is the best friend of krishna
 AI : Arjuna, a key character in the Mahabharata, was Lord Krishna's closest friend and devotee. Their deep bond is marked by mutual trust and respect. Krishna guided Arjuna during the Kurukshetra War and imparted the Bhagavad Gita's teachings, illustrating how true friendship is not just emotional support but also spiritual guidance.
+
+
+ ---------------------- 
+User : Who is best friend of krishna ?
+AI : The Bhagavad Gita does not explicitly mention Krishna's earthly friendships, but in the Mahabharata, we learn that Arjuna was his closest friend and ally. Their bond was built on mutual respect, trust, and shared values. Arjuna followed Krishna's guidance, which played a crucial role in the Kurukshetra War.
